@@ -1,12 +1,12 @@
 {
-    "name": "coliving/reportable",
-    "description": "Reportable Polymorphic Eloquent Models for Laravel 6 & 7",
+    "name": "nicklace/reportable",
+    "description": "Reportable Polymorphic Eloquent Models for Laravel 8",
     "keywords": ["report", "laravel"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Dzung Nguyen",
-            "email": "dungnh@gmail.com"
+            "name": "Nicolas Delrez",
+            "email": "hello@65inches.com"
         }
     ],
     "minimum-stability": "dev",
