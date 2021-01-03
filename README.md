@@ -16,7 +16,7 @@ And then include the service provider within `app/config/app.php`.
 
 ```php
 'providers' => [
-    Ghanem\Reportable\ReportableServiceProvider::class
+    Nicklace\Reportable\ReportableServiceProvider::class
 ];
 ```
 
