@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ghanem\\Reportable\\": "src/"
+            "65inches\\Reportable\\": "src/"
         }
     }
 }
