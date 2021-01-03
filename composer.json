@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "65inches\\Reportable\\": "src/"
+            "Nicklace\\Reportable\\": "src/"
         }
     }
 }
