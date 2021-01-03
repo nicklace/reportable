@@ -36,8 +36,8 @@ php artisan migrate
 
 namespace App;
 
-use Ghanem\Reportable\Contracts\Reportable;
-use Ghanem\Reportable\Traits\Reportable as ReportableTrait;
+use Nicklace\Reportable\Contracts\Reportable;
+use Nicklace\Reportable\Traits\Reportable as ReportableTrait;
 use Illuminate\Database\Eloquent\Model;
 
 class Post extends Model implements Reportable
