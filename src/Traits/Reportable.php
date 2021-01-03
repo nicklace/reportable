@@ -1,6 +1,6 @@
-<?php namespace Ghanem\Reportable\Traits;
+<?php namespace Nicklace\Reportable\Traits;
 
-use Ghanem\Reportable\Models\Report;
+use Nicklace\Reportable\Models\Report;
 use Illuminate\Database\Eloquent\Model;
 
 trait Reportable
